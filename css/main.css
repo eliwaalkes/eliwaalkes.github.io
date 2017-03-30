@@ -1,0 +1,44 @@
+.rap {	
+	width: 650px;
+    height: auto;
+    outline: none;
+}
+
+p
+{
+	color: white;
+	font-size: 111%;
+}
+#textDiv
+{
+	width:75%;
+}
+#imageDiv
+{
+	margin-left:10%;
+}
+h1
+{
+	color: white;
+}
+#textDiv2
+{
+	width:74%;
+}
+.whiteImg
+{
+	border: 14px double #B29D6C;
+	width: 650px;
+}
+.newColorClass{
+	color: #FFDF00;
+}
+#video{
+	border: 14px double #B29D6C;
+}
+#github{
+	float: left;
+}
+.contact{
+	
+}
